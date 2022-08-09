@@ -22,12 +22,14 @@
     <a href="https://docs.wisej.com">Wisej.NET Docs</a>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/21205878/183697913-5f8bef58-3481-4a4b-b66c-85ad9131cc7e.png" />
+</p>
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-![Wisej.NET WebAuthn Extension](![image](https://user-images.githubusercontent.com/21205878/183697387-d225b365-278d-4a78-8c5a-92d5740b4f11.png))
-
 This repository contains the source code for a Wisej.NET Web Application that:
 1) Ensures that that the client has a platform-based authenticator.
 2) Requests registration credentials from the client.
