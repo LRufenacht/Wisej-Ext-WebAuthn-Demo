@@ -66,8 +66,3 @@ To bridge the gap between legacy desktop applications and modern web application
 * Responsive Design
 * No JavaScript, HTML, CSS Required
 * 100+ Controls Available
-
-## Support
-To log issues related to this project, please use the Issues section of this repository.
-
-You may also fork this project and modify it to fit your needs and if you want to share a change or fix, please create a pull request.
